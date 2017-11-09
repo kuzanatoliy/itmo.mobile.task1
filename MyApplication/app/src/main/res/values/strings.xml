@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="question_go">Moscow is the largest city in Russia</string>
+    <string name="yes_button">Yes</string>
+    <string name="no_button">No</string>
+    <string name="action_settings">Settings</string>
+    <string name="correct_answer">It is true</string>
+    <string name="incorrect_answer">It is false</string>
+</resources>
